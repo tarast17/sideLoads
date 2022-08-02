@@ -1143,7 +1143,7 @@ WFS.exe,FxsCompose.dll
 WFS.exe,scansetting.dll
 WFS.exe,WindowsCodecs.dll
 wsqmcons.exe,KtmW32.dll
-ConfigSecurityPolicy.exe,MpClient.dll
-mpcmdrun.exe,MpClient.dll
-msmpeng.exe,MpClient.dll
-nissrv.exe,MpClient.dll
+ConfigSecurityPolicy.exe,mpclient.dll
+mpcmdrun.exe,mpclient.dll
+msmpeng.exe,mpclient.dll
+nissrv.exe,mpclient.dll
