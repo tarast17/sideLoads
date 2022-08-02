@@ -1144,6 +1144,6 @@ WFS.exe,scansetting.dll
 WFS.exe,WindowsCodecs.dll
 wsqmcons.exe,KtmW32.dll
 ConfigSecurityPolicy.exe,MpClient.dll
-MpCmdRun.exe,MpClient.dll
-MsMpEng.exe,MpClient.dll
-NisSrv.exe,MpClient.dll
+mpcmdrun.exe,MpClient.dll
+msmpeng.exe,MpClient.dll
+nissrv.exe,MpClient.dll
