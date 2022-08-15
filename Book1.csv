@@ -205,12 +205,15 @@ bootim.exe,VssTrace.DLL
 bootim.exe,WDSCORE.dll
 calc.exe,CRYPTBASE.DLL
 calc.exe,edputil.dll
+calc.exe,execmodelproxy.dll
 calc.exe,MLANG.dll
 calc.exe,PROPSYS.dll
 calc.exe,Secur32.dll
 calc.exe,SSPICLI.DLL
+calc.exe,twinui.appcore.dll
 calc.exe,WININET.dll
 calc.exe,WindowsCodecs.dll
+calc.exe,windows.storage.dll
 certreq.exe,cscapi.dll
 certreq.exe,DUI70.dll
 certreq.exe,dwmapi.dll
