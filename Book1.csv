@@ -43,6 +43,10 @@ msdt.exe,SSPICLI.DLL
 msdt.exe,UxTheme.dll
 msdt.exe,wer.dll
 msdt.exe,WINHTTP.dll
+msdt.exe, windows.storage.dll
+msdt.exe, p9np.dll
+msdt.exe, propsys.dll
+msdt.exe, davclnt.dll
 multidigimon.exe,NInput.dll
 netplwiz.exe,CRYPTBASE.dll
 netplwiz.exe,DSROLE.dll
