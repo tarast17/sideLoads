@@ -75,6 +75,7 @@ notepad.exe,cscui.dll
 notepad.exe,cscobj.dll
 notepad.exe,comdlg32.dll
 notepad.exe,cabview.dll
+notepad.exe,libcurl.dll
 optionalfeatures.exe,DUI70.dll
 optionalfeatures.exe,msi.dll
 optionalfeatures.exe,OLEACC.dll
