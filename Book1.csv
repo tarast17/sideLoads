@@ -25,9 +25,11 @@ fodhelper.exe,Secur32.dll
 fodhelper.exe,SSPICLI.DLL
 fodhelper.exe,WININET.dll
 fsavailux.exe,DEVOBJ.dll
+fsguidll.exe, fslapi.dll
 fxsunatd.exe,FXSAPI.dll
 fxsunatd.exe,IPHLPAPI.DLL
 fxsunatd.exe,PROPSYS.dll
+gadget.exe, Sidebar.dll
 immersivetpmvscmgrsvr.exe,DEVOBJ.dll
 iscsicli.exe,DEVOBJ.dll
 iscsicli.exe,ISCSIDSC.dll
@@ -76,6 +78,7 @@ notepad.exe,cscobj.dll
 notepad.exe,comdlg32.dll
 notepad.exe,cabview.dll
 notepad.exe,libcurl.dll
+nv.exe, NvSmartMax.dll
 optionalfeatures.exe,DUI70.dll
 optionalfeatures.exe,msi.dll
 optionalfeatures.exe,OLEACC.dll
